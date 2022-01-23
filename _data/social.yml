@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://elichan5168@gmail.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/eli5168
+  icon: fab fa-github

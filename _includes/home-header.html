@@ -1,0 +1,36 @@
+<div class="home-header pure-menu pure-menu-horizontal">
+  <div class="home-header-bar">
+    {% if site.data.archive %}
+    <ul class="home-header-menu pure-menu-list">
+      {% for item in site.data.archive %} 
+        <li class="pure-menu-item">
+          <a href="{{ item.url | relative_url }}" class="pure-menu-link {% if page.url == item.url %}current-item{% endif %}"">{{ item.title }}</a>
+        </li>
+      {% endfor %}
+
+      <div id="search-demo-container" class="inline">
+        <input type="search" id="search-input" placeholder="search...">
+        <ul id="results-container" class="inline2"></ul>
+      </div>
+
+    </ul>
+    {% endif %}
+  </div>
+</div>
+
+
+
+                                 
+<script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
+<script>
+  window.simpleJekyllSearch = new SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '{{ site.baseurl }}/json/search.json',
+    searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+    noResultsText: 'No results found',
+    limit: 10,
+    fuzzy: false,
+    //exclude: ['Welcome']
+  })
+</script>

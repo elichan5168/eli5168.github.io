@@ -1,0 +1,15 @@
+---
+layout: post
+title: Cat person
+author: Eli
+tags: [cat]
+date: 2020-10-01 13:56 +0800
+title_color: gold
+---
+<!-- <font color="#FF0000"></font>  -->
+I am a cat person.
+{: .message }
+
+<div class="align-center">
+  <a><img src="{{site.baseurl}}/assets/imgs/cat.gif "></a>
+</div>
