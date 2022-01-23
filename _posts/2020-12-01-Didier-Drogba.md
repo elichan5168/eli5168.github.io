@@ -5,7 +5,7 @@ author: Eli
 tags: [football]
 date: 2020-12-01 23:56 +0800
 title_color: deepskyblue
-excerpt: Chelsea Legends
+myexcerpt: Chelsea Legends
 ---
 Chelsea Legends
 {: .message }

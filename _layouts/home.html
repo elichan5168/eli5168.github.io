@@ -8,8 +8,8 @@ layout: default
   {% for post in paginator.posts %}
   <section class="post-entry">
     <h2 class="post-title">
-      <a href="{{ post.url | relative_url }}" style= color:{{ post.title_color}}> 
-        {{ post.title}}
+      <a href="{{ post.url | relative_url }}" style= color:{{ post.title_color}}>  
+        {{ post.title}} 
       </a>
     </h2>
 
@@ -23,7 +23,7 @@ layout: default
       {%- endif -%}
     </div>
 
-    <p>{{ post.excerpt | strip_html }}</p>
+    <p>{{ post.myexcerpt | strip_html }}</p>
   </section>
   {% endfor %}
   {%- if jekyll.environment == "production" and site.disqus -%}

@@ -5,7 +5,7 @@ author: Eli
 tags: [cat]
 date: 2020-10-01 13:56 +0800
 #title_color: gold
-excerpt: I am a cat person.
+myexcerpt: I am a cat person.
 ---
 <!-- <font color="#FF0000"></font>  -->
 I am a cat person.
