@@ -95,18 +95,6 @@ Eli Chan is a couch potato and a member of IEEE.
       <!-- /.row -->
       <hr>
       <!-- Project Three -->
-      <div class="row">
-        <div class=" col-md-2">
-          <a href="#">
-            <img class="img-fluid rounded mb-2 mb-md-0" src="{{ site.baseurl }}/assets/imgs/resume/1.jfif" alt="" width="144" height="96.771">
-          </a>
-        </div>
-        <div class=" col-md-9">
-          <h4>Zhuhai No.1 High School</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, odit velit cumque vero doloremque repellendus distinctio maiores rem expedita a nam vitae modi quidem similique ducimus! Velit, esse totam tempore.</p>
-          <a class="btn btn-primary" href="#">View Project</a>
-        </div>
-      </div>
       <!-- /.row -->
       <!-- Project Four --> 
       <!-- /.row -->
