@@ -6,6 +6,10 @@ title: Resume
 <meta charset="utf-8">
 <!-- Bootstrap core CSS -->
 <link href="{{ site.baseurl }}/assets/editor.css" rel="stylesheet">
+
+<h3 class="my-4"><b>About me</b></h3>
+Eli Chan is a couch potato and a member of IEEE.
+
 <section data-name="portfolion-one-column">    
     <div class="container">
       <!-- Page Heading -->
