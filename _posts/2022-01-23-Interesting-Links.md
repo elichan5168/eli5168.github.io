@@ -4,6 +4,7 @@ title: Interesting Links
 author: Eli
 tags: [Life]
 date: 2022-01-23 00:00 +0800
+excerpt: There are some interesting links.
 #title_color: RGB(255,204,204)
   #RGB(255,204,204) #RGB(204,204,255) #RGB(204,255,153) #RGB(255,204,153)
 ---
