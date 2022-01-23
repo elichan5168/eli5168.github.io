@@ -4,7 +4,7 @@ title: Cat person
 author: Eli
 tags: [cat]
 date: 2020-10-01 13:56 +0800
-title_color: gold
+#title_color: gold
 ---
 <!-- <font color="#FF0000"></font>  -->
 I am a cat person.
