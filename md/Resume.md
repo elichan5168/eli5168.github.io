@@ -7,13 +7,13 @@ title: Resume
 <!-- Bootstrap core CSS -->
 <link href="{{ site.baseurl }}/assets/editor.css" rel="stylesheet">
 
-<h3 class="my-4"><b>About me</b></h3>
-Eli Chan is a couch potato and a member of IEEE.
+<h2 class="my-4">About me</h2>
+I am a couch potato and a member of IEEE.
 
 <section data-name="portfolion-one-column">    
     <div class="container">
       <!-- Page Heading -->
-      <h3 class="my-4"><b>Experience</b></h3>
+      <h2 class="my-4">Experience</h2>
       <!-- Project One -->
       <div class="row">
         <div class="  col-md-2">
@@ -22,7 +22,7 @@ Eli Chan is a couch potato and a member of IEEE.
           </a>
         </div>
         <div class="  col-md-9">
-          <h4>City University of Hong Kong</h4>
+          <h3>City University of Hong Kong</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
           <a class="btn btn-primary" href="#">Official Website</a>
         </div>
@@ -37,7 +37,7 @@ Eli Chan is a couch potato and a member of IEEE.
           </a>
         </div>
         <div class=" col-md-9">
-          <h4>Institute of Automation, Chinese Academy of Sciences</h4>
+          <h3>Institute of Automation, Chinese Academy of Sciences</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, odit velit cumque vero doloremque repellendus distinctio maiores rem expedita a nam vitae modi quidem similique ducimus! Velit, esse totam tempore.</p>
           <a class="btn btn-primary" href="#">View Project</a>
         </div>
@@ -63,7 +63,7 @@ Eli Chan is a couch potato and a member of IEEE.
 </section><section data-name="portfolion-one-column">    
     <div class="container">
       <!-- Page Heading -->
-      <h3 class="my-4"><b>Education</b></h3>
+      <h2 class="my-4">Education</h2>
       <!-- Project One -->
       <div class="row">
         <div class="  col-md-2">
@@ -72,7 +72,7 @@ Eli Chan is a couch potato and a member of IEEE.
           </a>
         </div>
         <div class="  col-md-9">
-          <h4>The Hong Kong Polytechnic University</h4>
+          <h3>The Hong Kong Polytechnic University</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
           <a class="btn btn-primary" href="#">View Project</a>
         </div>
@@ -87,7 +87,7 @@ Eli Chan is a couch potato and a member of IEEE.
           </a>
         </div>
         <div class=" col-md-9">
-          <h4>Macau University of Science and Technology</h4>
+          <h3>Macau University of Science and Technology</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, odit velit cumque vero doloremque repellendus distinctio maiores rem expedita a nam vitae modi quidem similique ducimus! Velit, esse totam tempore.</p>
           <a class="btn btn-primary" href="#">View Project</a>
         </div>
