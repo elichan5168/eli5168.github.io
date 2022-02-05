@@ -112,7 +112,8 @@
 
         if ($('#clstr_a').length === 0) {
 
-            
+                            // jump to my website data 
+                            // var link = '<a id="clstr_a"  href="//clustrmaps.com">';
                             var link = '<a id="clstr_a"  href="//clustrmaps.com">';
             
             var container = $('<div class="clstrm_outer">' + link +
@@ -480,6 +481,5 @@
     }
 
 })(window, document);
-
 
 
