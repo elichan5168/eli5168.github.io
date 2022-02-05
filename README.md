@@ -144,9 +144,13 @@ If you want to show the TOC of a page on the right side, just set `toc: true` on
 
 If you want to write mathematics on a page, just set `math: true` on that page to enable MathJax.
 
-### Something More
+### Control Grid Width
 
-Just **hack** into the code and see what you can get.
+modify codes in assets/grids-responsive-min.css and default.html
+
+### Position of Search Engine Codes
+
+home-header.html and sass/_search.scss
 
 ## Development
 

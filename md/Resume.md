@@ -9,7 +9,7 @@ title: Resume
 
 <h2 class="my-4">About me</h2>
 I am a couch potato and a member of IEEE.
-
+<hr>
 <section data-name="portfolion-one-column">    
     <div class="container">
       <!-- Page Heading -->

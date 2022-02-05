@@ -23,30 +23,29 @@
 
 
 
-//standard computer screen >> $md-width
+//standard 16-inch computer screen >> $md-width
 @media screen and (min-width:$md-width) and (max-width:150rem) {
   .inline{
     display:inline;
     position: relative;
-    left: 18rem;
+    right: 3em;
+    position: fixed;
+    width: 35%;
   }
-  // control the display location of the search 
-  // .inline2{
-  //   padding-left: 310px;
-  // }
 }
 
 //big screen 
 @media screen and (min-width:150rem){
   .inline{
     display:inline;
-    position: relative;
-    left: 40rem;
+    right: 5em;
+    position: fixed;
+    width: 25%;
   }
 }
 
 
-//mobile screen << $md-width
+//mobile phone screen
 @media screen and (max-width:$md-width) {
   .inline{
     display:inline;
