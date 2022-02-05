@@ -11,6 +11,6 @@ myexcerpt: I am a cat person.
 I am a cat person.
 {: .message }
 
-<div class="align-center">
+<div align="center">
   <a><img src="{{site.baseurl}}/assets/imgs/cat.gif "></a>
 </div>

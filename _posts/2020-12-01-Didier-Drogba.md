@@ -12,8 +12,10 @@ Chelsea Legends
 
 As well as the four Premier League titles, he won four FA Cups, three League Cups and, in the most dramatic and glorious of circumstances, the Champions League. He was named Chelsea's Player of the Year and Players' Player of the Year and won the Premier League Golden Boot twice.
 
-<figure>
+<div align="center">
   <a><img src="/assets/imgs/Drogba.jpeg"></a>
-</figure>
+  <a><img src="/assets/imgs/didier-drogba-football-chelsea.jpg"></a>
+</div>
 
-![photo]({{ site.baseurl }}/assets/imgs/didier-drogba-football-chelsea.jpg)
+
+<!-- ![photo]({{ site.baseurl }}/assets/imgs/didier-drogba-football-chelsea.jpg) -->
