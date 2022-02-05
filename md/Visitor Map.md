@@ -10,7 +10,7 @@ Nice to meet you!
 
 <div id="clustrmaps-widget" style="width:50%" align="center">
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bIj584gdK6tPCkxZj49gFZQ_UthrAuTyceeJnEvEwv0"> -->
-<script type="text/javascript" id="clstr_globe" src="{{ site.baseurl }}/js/globe.js">
+<script type="text/javascript" id="clstr_globe" src="{{ site.baseurl }}/js/globe.js?d=bIj584gdK6tPCkxZj49gFZQ_UthrAuTyceeJnEvEwv0">
 </script>
 <br>
 </div> 
