@@ -163,7 +163,7 @@ To add a custom directory to your theme-gem, please edit the regexp in `not-pure
 
 ### Copyright
 
-Modifications based on Jekyll theme: Not Pure Poole; Check License.md.
+Modifications based on Jekyll theme: Not Pure Poole and the previous license is included in index.html file.
 
 ## License
 
