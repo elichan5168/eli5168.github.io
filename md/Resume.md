@@ -63,7 +63,7 @@ I am a couch potato and a member of IEEE.
 </section><section data-name="portfolion-one-column">    
     <div class="container">
       <!-- Page Heading -->
-      <h2 class="my-4">Education</h2>
+      <h2 class="my-4">Education</h2><br>
       <!-- Project One -->
       <div class="row">
         <div class="  col-md-2">
