@@ -11,7 +11,9 @@ title: Visitor Map
 <br>
 </div> 
 
-<br> <hr> <br> 
+<br> 
+<hr> 
+<br> 
 
 <!-- <div align="center">
 <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=890&t=m&d=bIj584gdK6tPCkxZj49gFZQ_UthrAuTyceeJnEvEwv0">
