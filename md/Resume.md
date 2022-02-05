@@ -8,7 +8,7 @@ title: Resume
 <link href="{{ site.baseurl }}/assets/editor.css" rel="stylesheet">
 
 <h2 class="my-4">About me</h2>
-Eli is a couch potato.
+Eli is a couch potato. <a href="https://elichan5168.github.io/" target="_blank"> One Page Resume</a>
 <hr>
 <section data-name="portfolion-one-column">    
     <div class="container">
