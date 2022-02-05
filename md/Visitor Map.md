@@ -2,12 +2,14 @@
 layout: page
 title: Visitor Map
 ---
- <br>  <br>  <br>  <br> 
+Nice to meet you!
+{: .message }
+
+ <br>  <br>  <br>  
 
 
 <div id="clustrmaps-widget" style="width:50%" align="center">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bIj584gdK6tPCkxZj49gFZQ_UthrAuTyceeJnEvEwv0"></script>
-<p align = "right"> 249 Pageviews | Last updated: Aug 2021 </p>
 <br>
 </div> 
 
