@@ -112,11 +112,11 @@ If you want to write mathematics on a page, just set `math: true` on that page t
 
 modify codes in assets/grids-responsive-min.css and default.html
 
-### Position of Search Engine Codes
+### Search Engine Codes
 
-home-header.html and sass/_search.scss
+Codes are placed in home-header.html and sass/_search.scss, and the search engine license is also included in home-header.html
 
-## Development
+### Development
 
 To set up your environment to develop this theme, run `bundle install`.
 
@@ -125,10 +125,14 @@ Your theme is setup just like a normal Jekyll site! To test your theme, run `bun
 When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
 To add a custom directory to your theme-gem, please edit the regexp in `not-pure-poole.gemspec` accordingly.
 
-### Copyright
+### Jekyll theme
 
 Modifications based on Jekyll theme: Not Pure Poole and the previous license is included in index.html file.
 
-## License
+### fontawesome
+
+Javascript Version 6.0 and Self-design icon update in default.html.
+
+### License
 
 Open source under the [MIT License](https://opensource.org/licenses/MIT).
