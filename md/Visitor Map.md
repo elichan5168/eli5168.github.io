@@ -2,19 +2,18 @@
 layout: page
 title: Visitor Map
 ---
-<meta charset="utf-8">
-<!-- Bootstrap core CSS -->
-<link href="{{ site.baseurl }}/assets/map.css" rel="stylesheet">
+ <br>  <br>  <br>  <br> 
 
- <br />  <br />  <br />  <br /> 
 
-<div align="center">
-<!-- <a href="https://clustrmaps.com/site/1bml7" title="Visit tracker" name="clustrmaps" text-align="center"> -->
+<div id="clustrmaps-widget" style="width:50%" align="center">
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bIj584gdK6tPCkxZj49gFZQ_UthrAuTyceeJnEvEwv0"></script>
+<p align = "right"> 249 Pageviews | Last updated: Aug 2021 </p>
+<br>
+</div> 
+
+<br> <hr> <br> 
+
+<!-- <div align="center">
 <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=890&t=m&d=bIj584gdK6tPCkxZj49gFZQ_UthrAuTyceeJnEvEwv0">
-<!-- </a> -->
-</div>
-
-<script src="{{ site.baseurl }}/js/globe.js"></script>
-<script type="text/javascript" id="clstr_globe"></script>
-
+</div> -->
 
